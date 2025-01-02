@@ -41,7 +41,7 @@ def detect_cells(density_map, sigma=2, threshold_factor=1.5):
 
 data =[]
 # Example usage
-input_image_folder=  '../real_dataset/outputs_light_u_net/'
+input_image_folder=  '../synth_dataset/outputs_u_net/'
 
 filenames= os.listdir(input_image_folder)
 for file_name in filenames :
@@ -96,4 +96,4 @@ for file_name in filenames :
     
 
 df = pd.DataFrame(data, columns=['Image name','Ground Truth', 'Local Maxima' , 'Error' ])
-df.to_csv('results/Local_Maxima_Light_U_Net.csv', index=False)
+df.to_csv('synth_dataset_results/Local_Maxima_U_Net.csv', index=False)

@@ -1,0 +1,3 @@
+Watershed: 196
+Connected Component: 196
+Local Maxima: 226

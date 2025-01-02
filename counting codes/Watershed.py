@@ -6,7 +6,7 @@ from scipy import ndimage as ndi
 import pandas as pd
 import os
 data = []
-input_image_folder=  '../real_dataset/outputs_light_u_net/'
+input_image_folder=  '../synth_dataset/outputs_u_net/'
 filenames= os.listdir(input_image_folder)
 for file_name in filenames :
 
@@ -81,4 +81,4 @@ for file_name in filenames :
         # plt.show()
 
 df = pd.DataFrame(data, columns=['Image name','Ground Truth', 'Watershed' , 'Error' ])
-df.to_csv('./results/Watershed_Light_U_Net.csv', index=False)
+df.to_csv('./synth_dataset_results/Watershed_U_Net.csv', index=False)

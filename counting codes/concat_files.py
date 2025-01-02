@@ -29,6 +29,6 @@ def concatenate_csv_columns_vertically_no_merge(csv_files, output_file):
 
 
 # Example usage
-csv_files = ['./results/Watershed_U_Net.csv' , 'results/Connected_Comp_U_Net.csv' ,'results/Local_Maxima_U_Net.csv']
-output_file = "./results/concat_U_net.csv"
+csv_files = ['./synth_dataset_results/Watershed_Light_U_Net.csv' , 'synth_dataset_results/Connected_Comp_Light_U_Net.csv' ,'synth_dataset_results/Local_Maxima_Light_U_Net.csv']
+output_file = "./synth_dataset_results/concat_Light_U_net.csv"
 concatenate_csv_columns_vertically_no_merge(csv_files, output_file)
