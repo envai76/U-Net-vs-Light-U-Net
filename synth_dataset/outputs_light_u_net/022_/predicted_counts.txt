@@ -1,3 +1,1 @@
 Watershed: 139
-Connected Component: 139
-Local Maxima: 147
