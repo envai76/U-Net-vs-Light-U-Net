@@ -1,1 +1,2 @@
 Watershed: 143
+Connected Component: 143

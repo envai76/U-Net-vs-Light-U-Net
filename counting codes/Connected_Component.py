@@ -11,7 +11,7 @@ import re
 import os
 counts=[]
 data=[]
-input_image_folder=  '../synth_dataset/outputs_light_u_net/'
+input_image_folder=  '../real_dataset/outputs_light_u_net1/'
 filenames= os.listdir(input_image_folder)
 for file_name in filenames :
 
@@ -83,4 +83,4 @@ for file_name in filenames :
 
 
 df = pd.DataFrame(data, columns=['Image name','Ground Truth', 'Connected Component' , 'Error' ])
-df.to_csv('synth_dataset_results/Connected_Comp_Liht_U_Net.csv', index=False)
+df.to_csv('real_dataset_results/Connected_Comp_Liht_U_Net1.csv', index=False)

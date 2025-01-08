@@ -1,1 +1,2 @@
 Watershed: 65
+Connected Component: 65

@@ -1,1 +1,2 @@
 Watershed: 187
+Connected Component: 187

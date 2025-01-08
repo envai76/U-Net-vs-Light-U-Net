@@ -1,1 +1,2 @@
 Watershed: 130
+Connected Component: 130
