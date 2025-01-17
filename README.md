@@ -8,8 +8,8 @@ A Hybrid Framework for Effective Microscopic Cell Counting & Segmentation Integr
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
-- [Dataset] (#Dataset)
-- [Pre-processing] (#Pre-processing)
+- [Dataset](#Dataset)
+- [Pre-processing](#Pre-processing)
 - [Networks](#Networks)
 - [Deep Learning Methodologies](#Deep)
 - [Counting Methodologies](#Counting)
