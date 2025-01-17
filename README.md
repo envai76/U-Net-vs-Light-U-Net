@@ -52,7 +52,7 @@ or you can use :
     ```bash
     pip install -r requirements.txt
 
-# Dataset
+## Dataset
 
 Both real and synthetic datasets are provided in ***real_dataset*** and ***synth_dataset*** folder of  this repository. 
 The custom dataset, collected by Dalhousie University’s Department of Ophthalmology.
@@ -61,33 +61,33 @@ the subfolders in each include :
 1. cells : input images
 2. dots : annotated label images
 
-# Pre-processing 
+## Pre-processing 
 all pre-processing steps are visualized in ***visulize the preprocessing steps*** folder.
 
 
-# Networks
+## Networks
 The data augmentation code is provided in ***generator.ipynb*** file. 
 Both the training codes of Light-U-Net and U-net are provided. The models architectures are provided in model.ipynb file.
 
-# Deep Learning Methodologies
+## Deep Learning Methodologies
 
 The methodology is presented bellow:
 ![Methodology](images/framework.png)
 
-# Counting Methodologies 
+## Counting Methodologies 
 
 All the counting methodologies (local maxima, connected component, watershed, LoG , DoG, DoH ) codes are provided under ***counting codes*** folder.
 The output results are coded to be saved under the dataset folder.
 
-# Evaluation
+## Evaluation
 
 All evaluation techniques (ICC, IoU) are provided in ***evaluation methods***.
 The output results are coded to be saved in the same directory.
 
-# Refrences
+## Refrences
 1. N. Y. Gharaei, N. Gaikwad, D. Upadhyay, S. Sampalli, B. C. Chauhan, and A. J. Jamet. Comparative evaluation of deep learning architectures for retinal ganglion cell counting: FCRN-A, FCRN-A-v2, and U-Net. In 2024 International Conference on Machine Learning and Applications (ICMLA), Miami, FL, USA, Dec. 2024. Accepted for publication.
 
-# contact
+## contact
 Let me know if you need help with any specific section or adding more details! you can contact with us using the following email address:
 1. Narges.yarahmadi@dal.ca
 
