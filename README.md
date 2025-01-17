@@ -8,7 +8,12 @@ A Hybrid Framework for Effective Microscopic Cell Counting & Segmentation Integr
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
-- 
+- [Dataset] (#Dataset)
+- [Pre-processing] (#Pre-processing)
+- [Networks](#Networks)
+- [Deep Learning Methodologies](#Deep Learning Methodologies)
+- [Counting Methodologies](#Counting Methodologies)
+- [Evaluation](#Evaluation)
 - [License](#refrences)
 - [Contact](#contact)
 
@@ -64,9 +69,9 @@ all pre-processing steps are visualized in ***visulize the preprocessing steps**
 The data augmentation code is provided in ***generator.ipynb*** file. 
 Both the training codes of Light-U-Net and U-net are provided. The models architectures are provided in model.ipynb file.
 
-# Methodologies
+# Deep Learning Methodologies
 
-The methodology is presented in bellow:
+The methodology is presented bellow:
 ![Methodology](images/framework.png)
 
 # Counting Methodologies 
