@@ -67,7 +67,7 @@ Both the training codes of Light-U-Net and U-net are provided. The models archit
 # Methodologies
 
 The methodology is presented in bellow:
-![Methodology](/images/framework.png)
+![Methodology](images/framework.png)
 
 # Counting Methodologies 
 
