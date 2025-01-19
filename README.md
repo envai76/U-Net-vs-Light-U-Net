@@ -26,6 +26,7 @@ This repository offers an optimized deep learning method for retinal ganglion ce
 We evaluate the proposed Light-U-Net model against the standard U-Net across both datasets and compare various counting and segmentation methods. Two types of label pre-processing are used to generate region and centroid label sets. 
 Local maxima, connected component, watershed, and feature-based counting methods (LoG, DoG, DoH) are applied to both Light-U-Net and U-Net predictions to facilitate a fair comparison. 
 The results demonstrate the model's robustness and suitability for RGC analysis under varying imaging conditions.
+
 ---
 
 
