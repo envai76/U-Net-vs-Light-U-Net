@@ -101,9 +101,19 @@ The methodology is presented below:
 ---
 
 ## Counting Methodologies 
+All counting methodologies are provided under the counting codes folder, including:
+- Local Maxima
+- Connected Component
+- Watershed
+- LoG (Laplacian of Gaussian)
+- DoG (Difference of Gaussian)
+- DoH (Determinant of Hessian)
 
-All the counting methodologies (local maxima, connected component, watershed, LoG , DoG, DoH ) codes are provided under ***counting codes*** folder.
-The output results are coded to get saved under the dataset folder.
+The output results are programmed to be saved in the dataset folder.
+
+
+---
+
 
 ## Evaluation
 All evaluation techniques, including ICC and IoU, are available in the ***evaluation methods*** folder. The output results are configured to be saved in the same directory. Additionally, the performance calculations for counting are included within each respective counting script in the ***counting codes*** folder.
