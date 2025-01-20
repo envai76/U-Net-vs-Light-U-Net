@@ -13,7 +13,7 @@ A Hybrid Framework for Effective Microscopic Cell Counting & Segmentation Integr
 - [Deep Learning Models](#Deep-Learning-Models)
 - [Train on your own Dataset](#Train-on-your-own-Dataset)
 - [Methodology](#Methodology)
-- [Counting Methodologies](#Counting)
+- [Counting Methodologies](#Counting-Methodologies)
 - [Evaluation](#Evaluation)
 - [License](#refrences)
 - [Contact](#contact)
