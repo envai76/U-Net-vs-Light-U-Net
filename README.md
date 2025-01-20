@@ -106,7 +106,7 @@ All the counting methodologies (local maxima, connected component, watershed, Lo
 The output results are coded to get saved under the dataset folder.
 
 ## Evaluation
-All evaluation techniques, including ICC and IoU, are available in the ***evaluation methods*** folder. The output results are configured to be saved in the same directory. Additionally, the performance calculations for counting are included within each respective counting script in the ***counting code*** folder.
+All evaluation techniques, including ICC and IoU, are available in the ***evaluation methods*** folder. The output results are configured to be saved in the same directory. Additionally, the performance calculations for counting are included within each respective counting script in the ***counting codes*** folder.
 
 ---
 
