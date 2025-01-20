@@ -50,8 +50,12 @@ To run the training phase of this code, you'll need to set up a specific environ
     bash install_dependencies.sh
 
 or you can use :
+
     ```bash
     pip install -r requirements.txt
+
+---
+
 
 ## Dataset
 
