@@ -102,7 +102,7 @@ The methodology is presented below:
 ## Counting Methodologies 
 
 All the counting methodologies (local maxima, connected component, watershed, LoG , DoG, DoH ) codes are provided under ***counting codes*** folder.
-The output results are coded to be saved under the dataset folder.
+The output results are coded to get saved under the dataset folder.
 
 ## Evaluation
 
