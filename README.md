@@ -46,13 +46,15 @@ To run the training phase of this code, you'll need to set up a specific environ
 
 3. Once the environment is set up and activated, you can proceed with installing the  dependencies  and then training the code.
 
-    ```bash
+   ```bash
     bash install_dependencies.sh
+    ```
 
-    or you can use :
+    Or you can use:
 
-    
+    ```bash
     pip install -r requirements.txt
+    ```
 
 ---
 
