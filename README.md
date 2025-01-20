@@ -10,8 +10,8 @@ A Hybrid Framework for Effective Microscopic Cell Counting & Segmentation Integr
 - [Installation](#installation)
 - [Dataset](#Dataset)
 - [Pre-processing](#Pre-processing)
-- [Networks](#Networks)
-- [Deep Learning Methodologies](#Deep)
+- [Deep Learning Models](#Deep)
+- [Methodology](#Methodology)
 - [Counting Methodologies](#Counting)
 - [Evaluation](#Evaluation)
 - [License](#refrences)
@@ -71,20 +71,33 @@ the subfolders in each include :
 ## Pre-processing 
 all pre-processing steps are visualized in ***visulize the preprocessing steps*** folder.
 
+----
 
-## Networks
-The data augmentation code is provided in ***generator.ipynb*** file. 
-Both the training codes of Light-U-Net and U-net are provided. The models architectures are provided in ***model.ipynb*** file.
+
+## Deep Learning Models
+
+The data augmentation code is provided in ***generator.ipynb*** file. The models architectures are provided in ***model.ipynb*** file.
 ![U-Net](images/U_Net.jpg)  
 *Figure 1: Architecture of U-Net*
 
 ![Light-U-Net](images/Light_UNet.jpg)  
 *Figure 2: Architecture of Light-U-Net*
-## Deep Learning Methodologies
+
+---
+
+## Train on your own Dataset
+
+Both the training codes of Light-U-Net and U-net are provided in ***Light-U-Net.ipynb*** and ***U-Net.ipynb*** respectively.
+
+---
+
+##  Methodology
 
 The methodology is presented below:  
 ![Methodology](images/framework.png)  
-*Figure 3: Framework of the proposed methodology*
+*Figure 3: Framework of our proposed methodology*
+
+---
 
 ## Counting Methodologies 
 
@@ -93,7 +106,7 @@ The output results are coded to be saved under the dataset folder.
 
 ## Evaluation
 
-All evaluation techniques (ICC, IoU) are provided in ***evaluation methods***.
+All evaluation techniques (ICC, IoU) are provided in ***evaluation methods*** folder.
 The output results are coded to be saved in the same directory.
 
 ## Refrences
