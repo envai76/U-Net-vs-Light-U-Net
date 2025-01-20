@@ -42,13 +42,13 @@ To run the training phase of this code, you'll need to set up a specific environ
 2. Activate the environment:
 
    ```bash
-    conda activate tf-gpu-env
+   conda activate tf-gpu-env
 
 3. Once the environment is set up and activated, you can proceed with installing the  dependencies  and then training the code.
 
    ```bash
-    bash install_dependencies.sh
-    ```
+   bash install_dependencies.sh
+   ```
 
     Or you can use:
 
@@ -75,6 +75,9 @@ all pre-processing steps are visualized in ***visulize the preprocessing steps**
 ## Networks
 The data augmentation code is provided in ***generator.ipynb*** file. 
 Both the training codes of Light-U-Net and U-net are provided. The models architectures are provided in model.ipynb file.
+![U-Net](images/U_Net.jpg)
+![Light-U-Net](images/Light_U_Net.jpg)
+
 
 ## Deep Learning Methodologies
 
