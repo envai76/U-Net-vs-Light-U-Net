@@ -78,7 +78,7 @@ Both the training codes of Light-U-Net and U-net are provided. The models archit
 ![U-Net](images/U_Net.jpg)  
 *Figure 1: Architecture of U-Net*
 
-![Light-U-Net]('images/Light_U_Net.jpg')  
+![Light-U-Net](images/Light_UNet.jpg)  
 *Figure 2: Architecture of Light-U-Net*
 ## Deep Learning Methodologies
 
