@@ -106,9 +106,9 @@ All the counting methodologies (local maxima, connected component, watershed, Lo
 The output results are coded to get saved under the dataset folder.
 
 ## Evaluation
+All evaluation techniques, including ICC and IoU, are available in the ***evaluation methods*** folder. The output results are configured to be saved in the same directory. Additionally, the performance calculations for counting are included within each respective counting script in the ***counting code*** folder.
 
-All evaluation techniques (ICC, IoU) are provided in ***evaluation methods*** folder.
-The output results are coded to be saved in the same directory.
+---
 
 ## Refrences
 1. N. Y. Gharaei, N. Gaikwad, D. Upadhyay, S. Sampalli, B. C. Chauhan, and A. J. Jamet. Comparative evaluation of deep learning architectures for retinal ganglion cell counting: FCRN-A, FCRN-A-v2, and U-Net. In 2024 International Conference on Machine Learning and Applications (ICMLA), Miami, FL, USA, Dec. 2024. Accepted for publication.
