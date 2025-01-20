@@ -101,7 +101,7 @@ The methodology is presented below:
 ---
 
 ## Counting Methodologies 
-All counting methodologies are provided under the counting codes folder, including:
+All counting methodologies are provided under the ***counting codes*** folder, including:
 - Local Maxima
 - Connected Component
 - Watershed
