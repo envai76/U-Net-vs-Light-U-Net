@@ -72,6 +72,9 @@ the subfolders in each include :
 ## Pre-processing 
 all pre-processing steps are visualized in ***visulize the preprocessing steps*** folder.
 
+![Pre_processing steps](images/Preprocessing.png)  
+*Figure 1: Input and centroids/regions label image pre-processing steps*
+
 ----
 
 
