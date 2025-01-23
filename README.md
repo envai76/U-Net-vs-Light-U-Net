@@ -82,10 +82,10 @@ All pre-processing steps are visualized in ***visulize the preprocessing steps**
 
 The data augmentation code is provided in ***generator.ipynb*** file. The models architectures are provided in ***model.ipynb*** file.
 ![U-Net](images/U_Net.jpg)  
-*Figure 1: Architecture of U-Net*
+*Figure 2: Architecture of U-Net*
 
 ![Light-U-Net](images/Light_UNet.jpg)  
-*Figure 2: Architecture of Light-U-Net*
+*Figure 3: Architecture of Light-U-Net*
 
 ---
 
@@ -99,7 +99,7 @@ Both the training codes of Light-U-Net and U-net are provided in ***Light-U-Net.
 
 The methodology is presented below:  
 ![Methodology](images/framework.png)  
-*Figure 3: Framework of our proposed methodology*
+*Figure 4: Framework of our proposed methodology*
 
 ---
 
