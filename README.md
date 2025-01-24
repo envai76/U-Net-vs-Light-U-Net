@@ -124,8 +124,13 @@ All evaluation techniques, including ICC and IoU, are available in the ***evalua
 ---
 
 ## Refrences
+
 1. N. Y. Gharaei, N. Gaikwad, D. Upadhyay, S. Sampalli, B. C. Chauhan, and A. J. Jamet. Comparative evaluation of deep learning architectures for retinal ganglion cell counting: FCRN-A, FCRN-A-v2, and U-Net. In 2024 International Conference on Machine Learning and Applications (ICMLA), Miami, FL, USA, Dec. 2024. Accepted for publication.
+
 2. O. Ronneberger, P. Fischer, and T. Brox, “U-net: Convolutional networks for biomedical image segmentation,” in Medical image computing and computer-assisted intervention–MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18, Springer, 2015, pp. 234–241.
+
+3. N. Y. Gharaei, N. Gaikwad, D. Upadhyay, B. C. Chauhan, and S. Sampalli,  ``A Hybrid Framework for Effective Microscopic Cell Counting \& Segmentation Integrating Light-U-net with Watershed: in progress,'' \textit{IEEE Transactions on Medical Imaging}, in progress, 2025.
+
 ----
 
 ## Contact
